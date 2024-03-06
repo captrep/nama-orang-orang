@@ -1,0 +1,35 @@
+{
+  "name": "nama-orang",
+  "version": "1.0.0",
+  "description": "generate a random name",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rep",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.21",
+    "pkg": "^5.8.1",
+    "puppeteer": "^19.7.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/captrep/nama-orang"
+  },
+  "keywords": [
+    "name"
+  ],
+  "bugs": {
+    "url": "https://github.com/captrep/nama-orang/issues"
+  },
+  "homepage": "https://github.com/captrep/nama-orang#readme"
+}

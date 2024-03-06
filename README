@@ -1,0 +1,9 @@
+# RANDOM NAME GENERATOR
+
+GENERATE RANDOM NAME FOR YOUR CHILD
+
+## Setup
+- install nodejs.
+- cd to project dir.
+- run ```npm install```.
+- run ```node index.js``` 
