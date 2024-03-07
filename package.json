@@ -1,5 +1,5 @@
 {
-  "name": "nama-orang",
+  "name": "nama-orang-orang",
   "version": "1.1.0",
   "description": "generate a random name",
   "main": "index.js",
@@ -23,13 +23,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/captrep/nama-orang.git"
+    "url": "git+https://github.com/captrep/nama-orang-orang.git"
   },
   "keywords": [
     "name"
   ],
   "bugs": {
-    "url": "https://github.com/captrep/nama-orang/issues"
+    "url": "https://github.com/captrep/nama-orang-orang/issues"
   },
-  "homepage": "https://github.com/captrep/nama-orang#readme"
+  "homepage": "https://github.com/captrep/nama-orang-orang#readme"
 }
